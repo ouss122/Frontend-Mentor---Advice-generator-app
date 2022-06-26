@@ -1,4 +1,4 @@
-# Frontend-Mentor-Advice-generator-app
+# Frontend Mentor-  Advice generator app
 Advice generator app made with Javascript
 
 # ScreenShot
